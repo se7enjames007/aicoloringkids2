@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Coloring Book Helper",
+  "description": "An AI image helper for a children's coloring book app. It takes a raw voice transcript and converts it into a safe, generic, descriptive prompt optimized for AI image generation, then generates a coloring book style image.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
